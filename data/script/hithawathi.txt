@@ -1,0 +1,558 @@
+When someone / victim reaches out with a general greeting 
+
+E.g., – Victim / Someone -  Hi 
+Bot - Please select a preferred language 
+Sinhala
+Tamil
+English 
+
+When a victim selects English  
+Hi, Welcome to Hithawathi 
+         	I’m a digital assistant and here to help. 
+‘Hithawathi’ is a Supporter, a Listener, a Counselor to Internet users, especially for minors, teenagers, young girls and women. ’Hithawathi’ educates you on recognizing incidents related to Cyber harassment, Cyber stalking, Cyber blackmailing and Cyber bullying. Moreover, it makes you aware of how to prevent such circumstances and is always there to guide you if such incidents occur. For more information, please visit https://www.hithawathi.lk
+
+
+Victim – Hi, (I have a problem)
+Bot – Have you completed 18 years of age? Yes / No
+	
+Victim – No
+Bot -  Please contact Child Helpline – National Child Protection Authority (NCPA)
+Phone: 1929
+Email: ncpa@childprotection.gov.lk
+Website: http://www.childprotection.gov.lk/?page_id=6
+
+	Victim – Yes
+	Bot – Please select your issue from the given list below 
+
+(List of issues)           
+Addiction 	      
+Fake account / impersonation
+False News / Hate Speech / Misuse of Photos, Videos & Information
+Hacked account
+Only Threat / Blackmail
+Phishing / Scam 
+Other
+
+
+Selected issue: Addiction 
+Bot -  Please contact 
+             Special Mental Health Hotline
+             Phone: 1926
+             Email: info@nimh.health.gov.lk
+             Website: http://nimh.health.gov.lk/
+Or
+Sumithrayo
+Phone: 011 268 2535, 011 268 2570
+Email: info@srilankasumithrayo.lk
+Website: https://srilankasumithrayo.lk
+
+
+Selected issue:  Fake account / impersonation
+Bot – Please select the social media platform (app)
+Facebook 
+Imo
+Instagram
+LinkedIn
+Messenger
+Telegram
+TikTok
+Viber
+WhatsApp
+X (Twitter)
+Other
+
+
+User selecting Facebook
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/facebook/how-do-you-report-an-account-for-impersonation-2/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+ 
+User selecting Imo
+Bot – Please select one of the options given below.
+
+Option 1: You may report to Imo support team to get it removed by emailing via feedback@imo.im
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Instagram 
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in  https://www.hithawathi.lk/help-centre/social-media/instagram/how-do-you-report-a-fake-account-impersonating-you-pretending-to-be-you-on-instagram/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting LinkedIn
+Bot - Please select one of the options given below.
+
+Option 1: You may report to LinkedIn support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/linkedin/how-do-you-report-a-fake-profile-on-linkedin/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Messenger 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Messenger support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/messenger/reporting/ 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Telegram 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Telegram support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/telegram/reportingontelegram/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+User selecting TikTok 
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/how-to-report-fake-impersonating-accounts-on-tiktok/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Viber 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Viber support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/viber/reporting-on-viber/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting WhatsApp
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/whatsapp/reporting-on-whatsapp/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting X (Twitter) 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to X support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/twitter/how-do-you-report-an-impersonation-violation-fake-account-on-twitter/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Other
+Bot - Please select one of the options given below.
+
+Option 1: Please search on https://www.hithawathi.lk/help-centre/social-media/ to find the relevant app with instructions on how to report or contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) for assistance.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+Selected issue: False News / Hate Speech / Misuse of Photos, Videos & Information     
+Bot – Please select the social media platform (app)
+Facebook 
+Imo
+Instagram
+LinkedIn
+Messenger
+Telegram
+Tik Tok
+Viber
+WhatsApp
+X (Twitter)
+Other
+
+
+User selecting Facebook
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/facebook/reporting-a-privacy-violation/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Imo
+Bot – Please select one of the options given below.
+
+Option 1: You may report to Imo support team to get it removed by emailing via feedback@imo.im
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Instagram
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/instagram/how-do-you-report-a-post-or-profile-for-abuse-or-spam-on-instagram/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting LinkedIn
+Bot - Please select one of the options given below.
+
+Option 1: You may report to LinkedIn support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/linkedin/how-do-you-report-inaccurate-information-on-another-members-profile-on-linkedin/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Messenger
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Messenger support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/messenger/reporting/ 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Telegram 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Telegram support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/telegram/reportingontelegram/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting TikTok 
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/tiktok-en/how-to-report-inappropriate-content-on-tiktok/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Viber 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Viber support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/viber/reporting-on-viber/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting WhatsApp
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and get it removed, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/whatsapp/reporting-on-whatsapp/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+ 
+User selecting X (Twitter) 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to X support team to get it removed by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/twitter/how-do-you-file-a-report-when-a-tweet-is-abusive/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Other
+Bot - Please select one of the options given below.
+
+Option 1: Please search on https://www.hithawathi.lk/help-centre/social-media/ to find the relevant app with instructions on how to report or contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) for assistance.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+Selected issue:  Hacked account
+Bot – Please select the social media platform (app)
+Facebook 
+Imo
+Instagram
+LinkedIn
+Messenger
+Telegram
+Tik Tok
+Viber
+ WhatsApp
+ X (Twitter)
+Other
+
+
+User selecting Facebook
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and recover it, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/facebook/you-think-your-account-was-hacked-or-someone-is-using-it-without-your-permission/. To understand this better, you may watch the following videos.
+-	For initial reporting - https://youtu.be/LcKvL26Icjg 
+-	If the initial reporting fails - https://www.youtube.com/watch?v=LkAQKtsAZFI
+(It is better to try these steps from a device you used to log into that account before. Plus, log out of all other FB accounts (if any) in that device.)
+If the above-mentioned reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Imo
+Bot – Please select one of the options given below.
+
+Option 1: You may report to Imo support team to recover it by emailing via feedback@imo.im
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Instagram
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and recover it, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/instagram/do-you-think-your-instagram-account-has-been-hacked/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting LinkedIn
+Bot - Please select one of the options given below.
+
+Option 1: You may report to LinkedIn support team to recover it by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/linkedin/how-do-you-report-a-hacked-account-on-linkedin/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Messenger 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Messenger support team to recover it by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/messenger/reporting/ (If you are unable to log in, you may ask a friend to report on behalf of you.)
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Telegram 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Telegram support team to recover it by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/telegram/reportingontelegram/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting TikTok 
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and recover it, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/tiktok-en/if-your-tiktok-account-is-hacked/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Viber 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to Viber support team to recover it by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/viber/reporting-on-viber/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting WhatsApp
+Bot - Please select one of the options given below.
+
+Option 1: If you wish to report and recover it, please follow the instructions shown in https://www.hithawathi.lk/help-centre/social-media/whatsapp/whatsapp-hacking/
+If the above-mentioned basic reporting wasn’t successful, please contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) to proceed with advanced reporting.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting X (Twitter) 
+Bot - Please select one of the options given below.
+
+Option 1: You may report to X support team to recover it by following the steps shown in https://www.hithawathi.lk/help-centre/social-media/twitter/is-your-twitter-account-hacked/
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+
+User selecting Other
+Bot - Please select one of the options given below.
+
+Option 1: Please search on https://www.hithawathi.lk/help-centre/social-media/ to find the relevant app with instructions on how to report or contact Hithawathi during our working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays) for assistance.
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
+Option 2: If you are in danger due to this incident / if you need to find out who is really behind this and punish the person (to take legal action) you should visit the police station, you belong to and lodge a complaint OR make a police entry online via www.telligp.police.lk (select the category as 'cyber-crime' and attach evidence).
+Moreover, cyber-criminal complaints that are clearly mentioned with relevant evidence can be handed over to the CID, or sent to "The Director, Criminal Investigation Department, Colombo 01" by registered post. Additionally, you have the option of emailing the same via dir.ccid@police.gov.lk
+
+Note: If you wish to take legal action against this, doing the needful to remove the relevant account / image / video / post is not recommended as it should be on the internet live as evidence.
+
+ 
+Selected issue: Only Threat / Blackmail
+Please report any online or offline blackmail to  
+Sri Lanka Police
+Phone (Emergency): 119, 118
+Website: www.police.lk
+Weblink for online complaints: telligp.police.lk
+
+And specifically for online blackmail, please contact 
+Computer Crime Investigation Division (CCID) of Criminal Investigation Department (CID)
+Phone: 011 238 1045
+Email: dir.ccid@police.gov.lk
+
+
+Selected issue: Phishing /Scam 
+If you have been scammed by someone online or offline, please report to
+Sri Lanka Police
+Phone (Emergency): 119, 118
+Website: www.police.lk
+Weblink for online complaints: telligp.police.lk
+
+And specifically for online scams, please contact 
+Computer Crime Investigation Division (CCID) of Criminal Investigation Department (CID)
+Phone: 011 238 1045
+Email: dir.ccid@police.gov.lk
+
+
+Selected issue: Other
+•	If a woman or child is being abused / harassed, 
+Please contact
+The Bureau for the Prevention of Abuse of Children and Women
+Phone: 109 , 011 244 4444
+Email: cwb.online@police.gov.lk
+Website: https://www.police.lk
+Or
+	Women In Need (WIN)
+Counselling hotline: 077 5676555
+Legal hotline: 076 8686555
+Tamil hotline: 077 5646555
+Email: connect@winsl.net
+Website: https://www.winsl.net/
+
+•	If you feel mentally down due to any circumstances,
+Please contact
+Special Mental Health Hotline
+Phone: 1926
+Email: info@nimh.health.gov.lk
+Website: http://nimh.health.gov.lk/
+Or
+Sumithrayo
+Phone: 011 268 2535, 011 268 2570
+Email: info@srilankasumithrayo.lk
+Website: https://srilankasumithrayo.lk
+
+•	If it is any other issue, kindly reach out to us during Hithawathi working hours (Mon – Fri: 8.30am to 5.00pm & Sat: 8.30am to 12.30pm except public holidays)
+Phone: +94 11 421 6062
+WhatsApp / Viber: +94 77 771 1199 
+
